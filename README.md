@@ -1,2 +1,2 @@
-# C-
+# C++
 portfolio containing C++ work
